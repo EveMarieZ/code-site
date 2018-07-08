@@ -1,0 +1,8 @@
+{
+  "name": "code-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:EveMarieZ/code-site.git",
+  "author": "Queen Bavmorda <e.zaunbrecher@gmail.com>",
+  "license": "MIT"
+}
